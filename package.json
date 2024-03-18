@@ -6,6 +6,9 @@
   "engines": {
     "node": "20.11.1"
   },
+  "scripts": {
+    "build": "echo 'build'"
+  },
   "keywords": ["vision", "ai"],
   "author": {
     "name": "Airstair",
