@@ -7,6 +7,10 @@
     "node": "20.11.1"
   },
   "keywords": ["vision", "ai"],
-  "author": "",
+  "author": {
+    "name": "Airstair",
+    "email": "my.2012@yandex.ru",
+    "url": "https://github.com/Airstair"
+  },
   "license": "ISC"
 }
